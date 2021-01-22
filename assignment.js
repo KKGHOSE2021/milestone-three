@@ -19,7 +19,7 @@ var resultKilometerToMeter = kilometerToMeter(10);
 console.log(resultKilometerToMeter);
 
 
-// Problem 2: Calculating total budger for buying watch, phone and laptop
+// Problem 2: Calculating total budget for buying watch, phone and laptop
 
 function budgetCalculator(watch, phone, laptop) {
 
